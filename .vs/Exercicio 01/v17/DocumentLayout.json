@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E276E443-8471-48FE-9D92-BBB7057FAD3C}|Exercicio 03\\Exercicio 03.csproj|c:\\users\\iago.snascimento\\downloads\\lista_02-while_do-while_for-main\\lista_02-while_do-while_for-main\\exercicio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E276E443-8471-48FE-9D92-BBB7057FAD3C}|Exercicio 03\\Exercicio 03.csproj|solutionrelative:exercicio 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4D5C4C-754C-40FB-8C3E-BF69F3EC108B}|Exercicio 02\\Exercicio 02.csproj|c:\\users\\iago.snascimento\\downloads\\lista_02-while_do-while_for-main\\lista_02-while_do-while_for-main\\exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4D5C4C-754C-40FB-8C3E-BF69F3EC108B}|Exercicio 02\\Exercicio 02.csproj|solutionrelative:exercicio 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE66A23-E974-441D-A6EA-D72B2B0D7DB4}|Exercicio 01\\Exercicio 01.csproj|c:\\users\\iago.snascimento\\downloads\\lista_02-while_do-while_for-main\\lista_02-while_do-while_for-main\\exercicio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE66A23-E974-441D-A6EA-D72B2B0D7DB4}|Exercicio 01\\Exercicio 01.csproj|solutionrelative:exercicio 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 03\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 03\\Program.cs",
+              "RelativeToolTip": "Exercicio 03\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:57:19.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 02\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 02\\Program.cs",
+              "RelativeToolTip": "Exercicio 02\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T00:05:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 01\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio 01\\Program.cs",
+              "ToolTip": "C:\\Users\\iago.snascimento\\Downloads\\Lista_02-while_do-while_for-main\\Lista_02-while_do-while_for-main\\Exercicio 01\\Program.cs",
+              "RelativeToolTip": "Exercicio 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:24:20.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

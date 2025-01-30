@@ -1,0 +1,28 @@
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\bin\Debug\net6.0\Exercicio 02.exe
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\bin\Debug\net6.0\Exercicio 02.deps.json
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\bin\Debug\net6.0\Exercicio 02.runtimeconfig.json
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\bin\Debug\net6.0\Exercicio 02.dll
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\bin\Debug\net6.0\Exercicio 02.pdb
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.AssemblyInfo.cs
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.dll
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\refint\Exercicio 02.dll
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.pdb
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\Exercicio 02.genruntimeconfig.cache
+C:\Users\iago.snascimento\source\repos\Exercicio 01\Exercicio 02\obj\Debug\net6.0\ref\Exercicio 02.dll
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\bin\Debug\net6.0\Exercicio 02.exe
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\bin\Debug\net6.0\Exercicio 02.deps.json
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\bin\Debug\net6.0\Exercicio 02.runtimeconfig.json
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\bin\Debug\net6.0\Exercicio 02.dll
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\bin\Debug\net6.0\Exercicio 02.pdb
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.AssemblyInfoInputs.cache
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.AssemblyInfo.cs
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.csproj.CoreCompileInputs.cache
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.dll
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\refint\Exercicio 02.dll
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.pdb
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\Exercicio 02.genruntimeconfig.cache
+C:\Users\iago.snascimento\Downloads\Lista_02-while_do-while_for-main\Lista_02-while_do-while_for-main\Exercicio 02\obj\Debug\net6.0\ref\Exercicio 02.dll
